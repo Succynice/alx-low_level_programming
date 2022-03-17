@@ -1,27 +1,31 @@
 # alx-low_level_programming
 
-0-positive_or_negative.c Prints is positive, is zero or is negative when a randomly generated number is any of these cases
 
-1-last_digit.c Prints the last digit of a randomly generated number
+File 0-positive_or_negative.c is a C program that will assign a random number to the variable n each time it is executed, using an if statement.
 
-2-print_alphabet.c Prints the alphabet in lowercase
+File 1-last_digit.c is a C program that will assign a random number to the variable n each time it is executed using another if statement.
 
-3-print_alphabets.c Prints the alphabet in lowercase, and then in uppercase
+File 2-print_alphabet.c is a C program that prints the alphabet in lowercase, followed by a new line.
 
-4-print_alphabet.c Prints the alphabet in lowercase, except q and e letters
+File 3-print_alphabt.c is a C program that prints the alphabet in lowercase, except q and e, followed by a new line.
 
-5-print_numbers.c Prints all single digit numbers of base 10 starting from 0
+File 4-print_alphabets.c is a C program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 
-6-print_numberz.c Prints all single digit numbers of base 10 starting from 0, without using char variables
+File 5-print_numbers.c is a C program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 
-7-print_tebahpla.c Prints the lowercase alphabet in reverse
+File 6-print_numberz.c is a C program that prints all single digit numbers of base 10 starting from 0, followed by a new line, using putchar.
 
-8-print_base16.c Prints all the numbers of base 16 in lowercase
+File 7-print_tebahpla.c is a C program that prints the lowercase alphabet in reverse, followed by a new line.
 
-9-print_comb.c Prints all possible combinations of single-digit numbers
+File 8-print_base16.c is a C program that prints all the numbers of base 16 in lowercase, followed by a new line.
 
-100-print_comb3.c Prints all possible different combinations of two digits, separated by ,
+File 9-print_comb.c is a C program that prints all possible combinations of single-digit numbers.
 
-101-print_comb4.c Prints all possible different combinations of three digits, separated by ,
+File 10-print_comb2.c is a C program that prints the numbers from 00 to 99.
 
-102-print_comb5.c Prints all possible combinations of two two-digit numbers
+File 100-print_comb3.c is a program that prints all possible different combinations of two digits.
+
+File 101-print_comb4.c is a program that prints all possible different combinations of three digits.
+
+File 102-print_comb5.c is a program that prints all possible combinations of two two-digit numbers.
+
