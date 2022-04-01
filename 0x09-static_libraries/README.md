@@ -6,4 +6,4 @@ File create_static_lib.sh is a script that creates a static library called libal
 
 File main.h is a header file containing all the prototypes of the functions stored in the libmy.a library.
 
-*.o files are object files bundled inside libmy.a static library
+Directory Object_files contains all object files bundled inside libmy.a static library
