@@ -25,25 +25,25 @@ Filename | Description
     * `float age`
     * `char *owner`
 
->* _A dog is the only thing on earth that loves you more than you love yourself_
+* _A dog is the only thing on earth that loves you more than you love yourself_
 
 * [1-init_dog.c](./1-init_dog.c): C function that initializes a variable of type _`struct dog`_.
 
->* _A dog will teach you unconditional love. If you can have that in your life, things won't be too bad_
+* _A dog will teach you unconditional love. If you can have that in your life, things won't be too bad_
 
     * [2-print_dog.c:](./2-print_dog.c:): C function that prints a `struct dog`
         - If an element of `d` is `NULL`, the function prints `(nil)` instead of the element.
         - If `d` is `NULL`, the function prints nothing.
 
->* _Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read_
+* _Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read_
 
     * [dog.h](./dog.h): Header file that defines a new type `dog_t` as a new name for the type `struct dog`
 
->* _A door is what a dog is perpetually on the wrong side of_
+* _A door is what a dog is perpetually on the wrong side of_
 
     * [4-new_dog.c](./4-new_dog.c): C function that creates a dog.
         - Returns `NULL` if the function fails.
 
->* _How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg_
+* _How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg_
 
     * [5-free_dog.c](./5-free_dog.c): C function that frees dogs.
