@@ -19,6 +19,6 @@ Filename | Description
     * **`float age`**
     * **`char *owner`**
 
-* 1. A dog is the only thing on earth that loves you more than you love yourself
-    * [1-init_dog.c](./1-init_dog.c): C function that initializes a variable of type _`struct dog`_.
+    * 1. A dog is the only thing on earth that loves you more than you love yourself
+        * [1-init_dog.c](./1-init_dog.c): C function that initializes a variable of type _`struct dog`_.
 
