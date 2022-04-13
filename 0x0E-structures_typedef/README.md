@@ -44,6 +44,6 @@ Filename | Description
     * [4-new_dog.c](./4-new_dog.c): C function that creates a dog.
         - Returns `NULL` if the function fails.
 
-* **How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg
+* **How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg**
 
     * [5-free_dog.c](./5-free_dog.c): C function that frees dogs.
