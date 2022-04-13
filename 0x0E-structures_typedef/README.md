@@ -15,6 +15,6 @@ Filename | Description
 
 ## Tasks 📃
 * [dog.h](./dog.h): Header file that defines a new type `struct` dog with the following elements:
-    ** `char *name`
-    ** `float age`
-    ** `char *owner`
+    >* `char *name`
+    >* `float age`
+    >* `char *owner`
