@@ -19,7 +19,7 @@ Project done during Full Stack Software Engineering studies at **ALX Africa SE.*
 --------------|-----------------
 [0-print_name.c](./0-print_name.c) | 
 [1-array_iterator.c](./1-array_iterator.c) | 
-[2-int_index.c][PlOd] | 
+[2-int_index.c](./2-int_index.c) | 
 [3-calc.h](./3-calc.h) | 
 
 
