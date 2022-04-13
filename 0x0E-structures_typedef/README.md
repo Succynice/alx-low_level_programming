@@ -28,3 +28,13 @@ Filename | Description
 * A dog is the only thing on earth that loves you more than you love yourself
 
   * [1-init_dog.c](./1-init_dog.c): C function that initializes a variable of type _`struct dog`_.
+
+* _A dog will teach you unconditional love. If you can have that in your life, things won't be too bad_
+
+    * [2-print_dog.c:](./2-print_dog.c:): C function that prints a _`struct dog`_
+
+        - If an element of `d` is `NULL`, the function prints `(nil)` instead of the element.
+
+        - If `d` is `NULL`, the function prints nothing.
+
+
