@@ -21,13 +21,13 @@ Filename | Description
 
   * [dog.h](./dog.h): Header file that defines a new type `struct` dog with the following elements:
 
-    - `char *name`
-    - `float age`
-    - `char *owner`
+    * `char *name`
+    * `float age`
+    * `char *owner`
 
 >* _A dog is the only thing on earth that loves you more than you love yourself_
 
-  * [1-init_dog.c](./1-init_dog.c): C function that initializes a variable of type _`struct dog`_.
+* [1-init_dog.c](./1-init_dog.c): C function that initializes a variable of type _`struct dog`_.
 
 >* _A dog will teach you unconditional love. If you can have that in your life, things won't be too bad_
 
