@@ -26,8 +26,9 @@
 
 ## Tasks 📃
 
-- 0. **Beauty is variable, ugliness is constant**
+0. **Beauty is variable, ugliness is constant**
     * [0-sum_them_all.c](./0-sum_them_all.c): C function that returns the sum of all its paramters.
         - If the parameter `n == 0`, the function returns 0.
+
 
 - 1. **To be is to be the value of a variable**
