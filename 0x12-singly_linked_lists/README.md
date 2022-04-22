@@ -4,8 +4,9 @@
 
 ## Technologies
 
-- C files are compiled using `gcc`
-- Tested on `Ubuntu 20.04` LTS
+- C files are compiled using `gcc 4.8.4`
+- C files are written according to the `C90 standard`.
+- Tested on `Ubuntu 20.04 LTS`.
 
 ## Private 📁
 * [private](./private): This directory contains all my test files for this project.
@@ -60,4 +61,3 @@ _Filename_ | _Description_
 
 * **Real programmers can write assembly code in any language**
     * [101-hello_holberton.asm]{./101-hello_holberton.asm}: 64-but assembly program that prints `Hello, Holberton` followed by a new line using only the `printf` function witout interrupts.
-    
