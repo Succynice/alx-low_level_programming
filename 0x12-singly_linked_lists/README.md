@@ -31,8 +31,8 @@ _Filename_ | _Description_
 ## Task 🛅
 
 * **Print list**
-    * [0-print_list.c]{./0-print_list.c}: C function that prints all the elements of a `list_t` list.
-        - If `str` is `NULL`, the function prints `[0] (nil)`.
+* [0-print_list.c]{./0-print_list.c}: C function that prints all the elements of a `list_t` list.
+    - If `str` is `NULL`, the function prints `[0] (nil)`.
 
 
 * **List length**
