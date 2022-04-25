@@ -22,7 +22,8 @@ Project done during Full Stack Software Engineering studies at `ALX Africa SE`. 
 _Filename_ | _Description_
 -----------|--------------
 
-Tasks 📃
+Tasks 🛅
+
 0. Print list
 
 * [0-print_listint.c](./0-print_listint.c): C function that prints all the elements of a `listint_t` linked list.
