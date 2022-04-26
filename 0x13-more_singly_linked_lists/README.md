@@ -1,6 +1,6 @@
 # C - More singly linked lists
 
-Project done during Full Stack Software Engineering studies at `ALX Africa SE`. In this project, I continued in practicing, building and using singly `linked lists` in `C` while learning when and why to use `linked lists` versus `arrays`.
+Project done during Full Stack Software Engineering studies at **_ALX Africa SE_**. In this project, I continued in practicing, building and using singly linked lists in `C` while learning when and why to use `linked lists` versus `arrays`.
 
 ## Technologies
 - `C` files are compiled using `gcc 4.8.4`
