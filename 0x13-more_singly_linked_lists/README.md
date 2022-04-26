@@ -19,8 +19,12 @@ Project done during Full Stack Software Engineering studies at **_ALX Africa SE_
 * All of the following files are programs written in `C`:
 
 
-_Filename_ | _Description_
+_Filename_ | _Description/Prototype_
 -----------|--------------
+[0-print_listint.c](./0-print_listint.c) | A function that prints all the elements of a listint_t list.**Prototype:** `size_t print_listint(const listint_t *h)`
+[1-listint_len.c](./1-listint_len.c) | A 
+[2-add_nodeint.c](./2-add_nodeint.c) | A 
+
 
 ## Tasks 🛅
 
