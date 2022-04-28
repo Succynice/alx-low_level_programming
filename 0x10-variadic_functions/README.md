@@ -1,4 +1,4 @@
-# Variadic functions
+# C - Variadic functions
 
 * Project done during Full Stack Software Engineering studies at **ALX Africa SE.** It aims to learn about variadic functions in **C language.**
 
@@ -16,13 +16,13 @@
 ## Files 📃
 > All of the following files are programs written in C:
 
-**Filename** | **Description**
--------------|----------------
-[0-sum_them_all.c](./0-sum_them_all.c) | `A function that returns the sum of all its parameters.`
-[1-print_numbers.c](./1-print_numbers.c) | `A function that prints numbers, followed by a new line.`
-[2-print_strings.c](./2-print_strings.c) | `A function that prints strings, followed by a new line.`
-[3-print_all.c](./3-print_all.c) | `A function that prints anything.`
-[README.md](./README.md) | `A README.md File`
+**Filename** | **Description** | **Prototype**
+-------------|-----------------|--------------
+[0-sum_them_all.c](./0-sum_them_all.c) | A function that returns the sum of all its parameters. | `int sum_them_all(const unsigned int n, ...)`
+[1-print_numbers.c](./1-print_numbers.c) | A function that prints numbers, followed by a new line. | `void print_numbers(const char *separator, const unsigned int n, ...)`
+[2-print_strings.c](./2-print_strings.c) | A function that prints strings, followed by a new line.` | `void print_strings(const char *separator, const unsigned int n, ...)`
+[3-print_all.c](./3-print_all.c) | A function that prints anything. | `void print_all(const char * const format, ...)`
+[README.md](./README.md) | A README.md File | 
 
 ## Tasks 📃
 
