@@ -65,4 +65,4 @@ _Filename_ | _Description_ | _Prototype_
     * If little-endian - returns `1`.
 
 7. **Crackme3**
-    * [101-password](./101-password): File containing the password for the [crackme3] executable.
+    * [101-password](./101-password): File containing the password for the [crackme3](./crackme3) executable.
