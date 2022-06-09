@@ -10,7 +10,7 @@ Project done during Full Stack Software Engineering studies at __ALX AFRICA SE S
 - [tests](./tests): This directory contains all my main.c and exe files for this project.
 
 ## lists.h
-* [main.h](./main.h): Header file containing prototypes for all functions written in this project.
+* [lists.h](./main.h): Header file containing prototypes for all functions written in this project.
 
 ## Files 📃
 * All of the following files are programs written in `C`
@@ -18,7 +18,34 @@ Project done during Full Stack Software Engineering studies at __ALX AFRICA SE S
 
 _Filename_ | _Description_ | _Prototype_
 -----------|---------------|------------
-
+[0-print_dlistint.c	](0-print_dlistint.c	) | a function that prints all the elements of a dlistint_t list. | `	size_t print_dlistint(const dlistint_t *h);`
+[1-dlistint_len.c](1-dlistint_len.c) | a function that returns the number of elements in a linked dlistint_t list. | `size_t dlistint_len(const dlistint_t *h);`
+[2-add_dnodeint.c](2-add_dnodeint.c) | a function that adds a new node at the beginning of a dlistint_t list. | `dlistint_t *add_dnodeint(dlistint_t **head, const int n);`
+[3-add_dnodeint_end.c](3-add_dnodeint_end.c) | a function that adds a new node at the end of a dlistint_t list. | `dlistint_t *add_dnodeint_end(dlistint_t **head, const int n);`
+[4-free_dlistint.c](4-free_dlistint.c) | a function that frees a dlistint_t list. | `void free_dlistint(dlistint_t *head);`
+[5-get_dnodeint.c](5-get_dnodeint.c) | a function that returns the nth node of a dlistint_t linked list. | `dlistint_t *get_dnodeint_at_index(dlistint_t *head, unsigned int index);`
+[6-sum_dlistint.c](6-sum_dlistint.c) | a function that returns the sum of all the data (n) of a dlistint_t linked list. | `int sum_dlistint(dlistint_t *head);`
+[7-insert_dnodeint.c](7-insert_dnodeint.c) | a function that inserts a new node at a given position. | `dlistint_t *insert_dnodeint_at_index(dlistint_t **h, unsigned int idx, int n);`
+[8-delete_dnodeint.c](8-delete_dnodeint.c) | a function that deletes the node at index index of a dlistint_t linked list. | `int delete_dnodeint_at_index(dlistint_t **head, unsigned int index);`
+[100-password](100-password) | password for crackme4. | 
+[102-result](102-result) | Find the largest palindrome made from the product of two 3-digit numbers. | 
+[103-keygen.c](103-keygen.c) | a keygen for crackme5. |
 
 ## Tasks 🛅
 
+0. **Print list**
+
+    - [0-print_dlistint.c](./0-print_dlistint.c): C function that prints all the elements of a doubly-linked `dlistint_t` list.
+    - Returns the number of nodes in the list.
+
+
+1. **List length**
+
+1-dlistint_len.c: C function that returns the number of nodes in a doubly-linked `dlistint_t` list.
+
+
+2. **Add node**
+
+    * 2-add_dnodeint.c: C function that adds a new node at the beginning of a doubly-linked dlistint_t list.
+    * If the function fails - returns NULL.
+    * Otherwise - returns the address of the new element.
