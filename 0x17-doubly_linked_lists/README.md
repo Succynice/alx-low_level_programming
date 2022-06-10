@@ -41,7 +41,7 @@ _Filename_ | _Description_ | _Prototype_
 
 1. **List length**
 
-    * [1-dlistint_len.c](./1-dlistint_len.c): C function that returns the number of nodes in a doubly-linked `dlistint_t` list.
+    - [1-dlistint_len.c](./1-dlistint_len.c): C function that returns the number of nodes in a doubly-linked `dlistint_t` list.
 
 
 2. **Add node**
