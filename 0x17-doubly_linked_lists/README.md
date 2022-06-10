@@ -73,7 +73,7 @@ _Filename_ | _Description_ | _Prototype_
 
 6. **Sum list**
 
-    * 6-sum_dlistint.c: C function that sums all the data (`n`) of a doubly-linked dlistint_t list.
+    * [6-sum_dlistint.c](./6-sum_dlistint.c): C function that sums all the data (`n`) of a doubly-linked dlistint_t list.
     * If the list is empty - returns `0`.
     * Otherwise - returns the sum of all the data (`n`).
 
