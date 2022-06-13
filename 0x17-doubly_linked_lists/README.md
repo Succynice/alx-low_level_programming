@@ -10,7 +10,7 @@ Project done during Full Stack Software Engineering studies at __ALX AFRICA SE S
 - [tests](./tests): This directory contains all my main.c and exe files for this project.
 
 ## lists.h
-* [lists.h](./main.h): Header file containing prototypes for all functions written in this project.
+* [lists.h](./lists.h): Header file containing prototypes for all functions written in this project.
 
 ## Files 📃
 * All of the following files are programs written in `C`
