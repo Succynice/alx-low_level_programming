@@ -1,6 +1,8 @@
 # C - Makefiles
 
-Project done during Full Stack Software Engineering studies at **ALX AFRICA SE School**.In this project, I practiced writing Makefiles.
+Project done during Full Stack Software Engineering studies at **ALX AFRICA SE School**. In this project, I practiced writing Makefiles.
+
+*****
 
 ## Tests :heavy_check_mark:
 
@@ -17,6 +19,19 @@ Used for Makefile practice purposes throughout project.
 ## Header File :file_folder:
 
 * [m.h](./m.h): Header file defining the function prototype used in `school.c`.
+
+## Table of contents
+Files | Description
+----- | -----------
+[0-Makefile](./0-Makefile) | First Makefile
+[1-Makefile](./1-Makefile) | Makefile based on the previous one
+[2-Makefile](./2-Makefile) | Makefile based on the previous one
+[3-Makefile](./3-Makefile) | Makefile based on the previous one
+[4-Makefile](./4-Makefile) | Makefile based on the previous one
+[5-island_perimeter.py](./5-island_perimeter.py) | Python function def island_perimeter(grid): that returns the perimeter of the island described in the grid list
+[100-Makefile](./100-Makefile) | Makefile based on the previous one
+
+****
 
 ## Tasks :page_with_curl:
 
